@@ -24,7 +24,10 @@ This project uses EventStreams to access various data streams, primarily the `re
 
 ### Integration with OpenSearch
 
-OpenSearch is used as the analytics database for storing the consumed data. Key components and configurations include:
+OpenSearch is used as the analytics database for storing the consumed data.
+
+
+Key components and configurations include:
 
 ### Wikimedia to KafkaProducer
 - **ProducerConfig**: Configuration for the Kafka producer.
